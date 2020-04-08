@@ -25,6 +25,7 @@ There are also these two extensive lists you should check out as well:
 - [Telegram / Whatsapp](#speech_balloontelegram--whatsapp)
 - [Android Apps](#iphone-android-apps)
 - [iOS Apps](#iphone-ios-apps)
+- [WeChat mini-programs] (#we-chat-mini-programs)
 - [Contribute](#1st_place_medal-contribute)
 
 -------------
@@ -125,6 +126,13 @@ If you were thinking of making an iOS App for the App Store, do read this: [Appl
 | [CoronaTracker](https://github.com/MhdHejazi/Corona)<sup>1</sup> | EN | Coronavirus tracker app for iOS & macOS with map & charts | :earth_asia: | [Mhd Hejazi](https://samabox.com/) | 
 
 <sup>1</sup> Not available on App Store due to Apple's policies :woman_shrugging:
+
+
+## WeChat Mini-programs
+
+| Name & link | Lang | Summary | For | By |
+| ----------- | ---- | ------- | --- | --- |
+| [We Doctor]() |zh-CN| Coronavirus (COVID-19) Updates | :china: | [Unbound Medicine, Inc.](https://relief.unboundmedicine.com/relief) :us: |
 
 -----------------
 
